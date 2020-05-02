@@ -1,6 +1,6 @@
 # pwaHomework
 
-I was given the task of turning a previous class project into a high performance, PWA application. My instructions were the following: 
+I was given the task of turning a previous class activity into a performance optimized, PWA. My instructions were the following: 
 
 - The app should be installable as a PWA
 - The app should have API routes and HTML routes
